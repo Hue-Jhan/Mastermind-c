@@ -1,0 +1,12 @@
+1. Modificare eventualmente le impostazioni
+2. Giocare:
+	-Generata una combinazione segreta di n numeri
+	-Inserire una combinazione 
+	-In output potrai consultare:
+		a. il numero di cifre corrette in posizione corretta
+		b. il numero di cifre corrette in posizione errata
+	Hai a diposizione t tentativi per indovinare.
+	Al termine potrai vedere la sequenza corretta.
+3. Puoi salvare la partita e riprenderla se non riesci a finirla!
+
+BUON DIVERTIMENTO!!
