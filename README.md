@@ -14,4 +14,5 @@ The menu gives u 4 options:
 - Play the game (or resume match);
 - Save Match;
 
-I divided each "section" of this program in headers for a total of 6 excluding the main file. Ion wanna explain all of them in details as each title says what they do, have fun.
+I divided each "section" of this program in headers for a total of 6 excluding the main file. <br />
+Ion wanna explain all of them in details as each title says what they do, have fun.
