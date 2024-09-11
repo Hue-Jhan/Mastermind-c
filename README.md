@@ -1,5 +1,5 @@
 # Mastermind-c
-Mastermind game in C (University project), built in Eclipse (our teacher forced us to use this crappy compiler, and also prohibited us from using switch, for, break, and other statements. We also had a limit of returns to use in a function, and had to handle variables, data and globals in a specific way...
+Mastermind game in C (Uni project), built in Eclipse (our teacher forced us to use this crappy compiler, and also prohibited us from using switch, for, break, and other statements. We also had a limit of returns to use in a function, and had to handle variables, data and globals in a specific way... The entire code and interface is in italian
 
 # 🕹 Game
 The game is quite simple: a random string of X integers is generated and u have to guess it; you insert a possible combination, if its correct u win, if its not the game will tell you the exact number of integers in the correct position and in a wrong position. You have Y attempts, if u lose u can see the correct combination, and u can also save the game and resume it whenever u want (as long as the data path works xd). The interface kinda sux but its better than nothing, at least our teacher let us use colors.
